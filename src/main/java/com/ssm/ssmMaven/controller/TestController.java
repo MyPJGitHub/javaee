@@ -38,7 +38,7 @@ public class TestController {
         modelAndView.addObject("testBeans" , testBeans);
         modelAndView.setViewName("list");
         System.out.println(":aaa");
-
+        System.out.printf("ccccc");
         return modelAndView;
     }
 }
