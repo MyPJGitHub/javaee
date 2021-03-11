@@ -45,7 +45,6 @@ public class TestController {
         System.out.println("ccc");
         System.out.println("dddd");
         System.out.println("eeeee");
-        System.out.println("aa");
         return modelAndView;
     }
 }
