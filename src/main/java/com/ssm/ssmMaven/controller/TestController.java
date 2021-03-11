@@ -42,7 +42,6 @@ public class TestController {
         modelAndView.setViewName("list");
         System.out.println("aa");
         System.out.println("bbb");
-        System.out.println("ccc");
         System.out.println("dddd");
         System.out.println("eeeee");
         return modelAndView;
