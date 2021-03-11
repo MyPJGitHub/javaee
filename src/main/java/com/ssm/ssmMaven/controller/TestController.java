@@ -40,10 +40,6 @@ public class TestController {
         //model.addAttribute("testBeans" , testBeans);
         modelAndView.addObject("testBeans" , testBeans);
         modelAndView.setViewName("list");
-        System.out.println("aa");
-        System.out.println("bbb");
-        System.out.println("dddd");
-        System.out.println("eeeee");
         return modelAndView;
     }
 }
